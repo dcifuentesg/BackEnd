@@ -138,3 +138,7 @@ document.getElementById('bancolombia').addEventListener('click', function() {
 document.getElementById('BancoBBVA').addEventListener('click', function() {
     window.location.href = 'https://www.bbva.pe/personas/data-challenge.html#participantes'; 
 });
+
+document.getElementById('commentlink').addEventListener('click', function() {
+    window.location.href = 'https://www.bbva.pe/personas/data-challenge.html#participantes'; 
+});
